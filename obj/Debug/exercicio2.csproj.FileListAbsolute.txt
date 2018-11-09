@@ -1,0 +1,6 @@
+C:\Users\TheBadMushroom\Desktop\11M- n2 artur quaresma\exercicio2\bin\Debug\exercicio2.exe.config
+C:\Users\TheBadMushroom\Desktop\11M- n2 artur quaresma\exercicio2\obj\Debug\exercicio2.csprojResolveAssemblyReference.cache
+C:\Users\TheBadMushroom\Desktop\11M- n2 artur quaresma\exercicio2\bin\Debug\exercicio2.exe
+C:\Users\TheBadMushroom\Desktop\11M- n2 artur quaresma\exercicio2\bin\Debug\exercicio2.pdb
+C:\Users\TheBadMushroom\Desktop\11M- n2 artur quaresma\exercicio2\obj\Debug\exercicio2.exe
+C:\Users\TheBadMushroom\Desktop\11M- n2 artur quaresma\exercicio2\obj\Debug\exercicio2.pdb
